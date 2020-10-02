@@ -35,7 +35,7 @@ https://github.com/tensorflow/models/blob/master/slim/nets/mobilenet_v1.md
 import numpy as np
 import tensorflow as tf 
 from keras.preprocessing import image
-from mobilenet_v1_func import MobileNet
+from mobilenet_v1_obj import MobileNet
 from keras.applications.imagenet_utils import decode_predictions
 
 
