@@ -1,6 +1,6 @@
 # mobilenet_tf2
 
-## Introduction to the Mobilenet
+## Introduction to the Modification 
 Modify some lines of code to comply with TensorFlow 2.2 and Keras 2.4.3 
 
 MobileNets support any input size greater than 32 x 32, with larger image 
