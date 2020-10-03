@@ -1,0 +1,9 @@
+
+mobilenet_v2_weights_download
+
+Please download the weights offline and then add all the paths of the weights in the script 
+if meeting any problem during the runtime of the script. 
+
+mobile_v2_weights: https://github.com/JonathanCMitchell/mobilenet_v2_keras/releases
+
+
