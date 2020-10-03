@@ -462,7 +462,7 @@ def MobileNetV3Large(input_shape=None, alpha=1.0, minimalistic=False, include_to
 
 if __name__ == '__main__':
 
-    # -model = MobileNetV3Small(include_top=False, weights='imagenet')
-    model = MobileNetV3Large(include_top=False, weights='imagenet')
+    model = MobileNetV3Large(include_top=True, weights='imagenet')
+    # -model = MobileNetV3Large(include_top=False, weights='imagenet')
  
     model.summary()
