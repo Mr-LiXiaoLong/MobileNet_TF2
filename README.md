@@ -1,4 +1,4 @@
-# mobilenet_tf2
+# MobileNet_tf2
 
 ## Introduction to the Modification 
 
